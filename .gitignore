@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Generated data (reproducible via run.py)
+data/
+output/
+sample_data/
+
+# Screenshots (reproducible via take_screenshots.py)
+screenshots/
+blog_cover.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.pytest_cache/
+
+# Local agent / toolbox state
+.claude/
+CLAUDE.md
+.github/
