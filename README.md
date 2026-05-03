@@ -208,10 +208,6 @@ No paid API keys required. Get a free key at [build.nvidia.com](https://build.nv
 
 **Increase trials**: `python run.py collect --trials 20` for higher statistical power.
 
-## Blog Post
-
-Read the full write-up: [Do LLMs Try Harder When You Bribe Them?](blog/posts/2026-05-02-do-llms-try-harder-when-you-bribe-them.md)
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
